@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:50:56.884166
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:47
 #+TITLE: 四念處
 #+PROPERTY: CBETA_ID T46n1918
 #+PROPERTY: ID KR6d0146
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 46, No. 1918
 #+PROPERTY: VOL 46
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0146_T_000-0555c>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6d0146_T_002-0563a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 四念處卷第二¶
+四念處卷第二¶
 ¶
 隋天台山修禪寺智者大師說¶
 門人章安灌頂記¶
