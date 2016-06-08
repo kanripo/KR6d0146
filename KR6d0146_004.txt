@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:50:56.943330
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:47
 #+TITLE: 四念處
 #+PROPERTY: CBETA_ID T46n1918
 #+PROPERTY: ID KR6d0146
